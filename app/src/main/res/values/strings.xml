@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ProcessManager</string>
+    <string name="about">本应用的相关描述信息</string>
+    <string name="about_me">关于应用</string>
+    <string name="menu_settings">Settings</string>
+    <string name="kill_sel">清除选中</string>
+    <string name="kill_all">一键清理</string>
+    <string name="leftMem">剩余内存</string>
+    <string name="system_info">系统信息</string>
+    <string name="welcome">欢迎</string>
+    <string name="proNum">进程总数</string>
+    <string name="refresh">刷新</string>
+    <string name="cancel">取消</string>
+    <string name="detail">查看详情</string>
+    <string name="tasks">正在运行的任务</string>
+
+    <string-array name="operation">
+        <item>结束该进程</item>
+        <item>查看详情</item>
+        <item>加入黑名单</item>
+></string-array>
+
+    <string name="title_activity_black_name">BlackName</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
